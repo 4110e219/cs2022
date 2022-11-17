@@ -16,7 +16,6 @@ Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
 Why Python?
 ```
-
 ### 2. 
 ```
 Python uses __________ to indicate a block of code
@@ -27,4 +26,8 @@ Python uses __________ to indicate a block of code
 ```
 Python uses indentation to indicate a block of code.
 ```
+### 3. 
+``` 
+Python has commenting capability for the purpose of in-code documentation. Comments start with a  __________
+(A)A  (B) # (C) /  (D)&
 
