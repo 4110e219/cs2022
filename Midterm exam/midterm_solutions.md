@@ -34,8 +34,8 @@ Python has commenting capability for the purpose of in-code documentation. Comme
 ``` 
 - answer: (B) # https://www.w3schools.com/python/python_comments.asp 
 Comments starts with a #, and Python will ignore them. 
-```
-### 4. 
+
+### 4.  
 ```
 Unpack a Collection:
 If you have a collection of values in a list, tuple etc. Python allows you to extract the values into variables. 
@@ -47,7 +47,7 @@ What is the output of this code in Python?
 (D) ["apple", "banana", "cherry"]
 ```
 - answer: (A) apple 
-# fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry"]
   x, y, z = fruits
   print(x)
 
