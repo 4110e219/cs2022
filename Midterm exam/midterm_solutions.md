@@ -47,9 +47,10 @@ What is the output of this code in Python?
 (D) ["apple", "banana", "cherry"]
 ```
 - answer: (A) apple 
+```
 fruits = ["apple", "banana", "cherry"]
-  x, y, z = fruits
-  print(x)
+x, y, z = fruits
+print(x)
 
 
 
