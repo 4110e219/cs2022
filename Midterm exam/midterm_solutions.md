@@ -59,7 +59,7 @@ Which following is the correct way to create a dictionary in Python?
    (E) students = { 'name' : 'alice' , 'score' : 60 }
 ``` 
 - answer: (E) students = { 'name' : 'alice' , 'score' : 60 }
-```
+
 ### 6. 
 ```
 What is the output of this code in Python?
@@ -71,7 +71,6 @@ print(x + y)
 (A)	5 John  (B) 5 + John  (C) John (D) Python will give you an error
 ``` 
 - answer: (A) 5 John 
-```
 
 ### 7. 
 Which one of the following outputs is wrong?
@@ -81,7 +80,7 @@ Which one of the following outputs is wrong?
 (D)y = int(2.8)  output:2
 ```
 - answer: (A)13//5  output: 2.6 
-``` 
+```
 ### 8. 
 ```
 What does the following Python program fragment do?
