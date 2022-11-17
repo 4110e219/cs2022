@@ -1,3 +1,5 @@
+### 4110E219 喬安蒂
+
 ### 1.
 ```
 What can Python do?
@@ -14,7 +16,6 @@ Python can be used alongside software to create workflows.
 Python can connect to database systems. It can also read and modify files.
 Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
-Why Python?
 ```
 
 ### 2. 
@@ -229,6 +230,86 @@ Python has a set of built-in methods that you can use on dictionaries. Which sta
 ```
 - answer: https://www.w3schools.com/python/python_dictionaries.asp
 (C) items() will returns a list containing a tuple for each key value pair  
+
+### 20. 
+``` 
+Python supports the usual logical conditions from mathematics:
+Which statements are correct ?
+(A)Equals: a = b
+(B)Not Equals: a != b
+(C)Less than or equal to: a <= b
+(D)Greater than: a > b
+```
+-answer: (BCD) https://www.w3schools.com/python/python_operators.asp 
+
+### 21. 
+```
+What is the output of this code in Python?
+
+i = 1
+while i < 6:
+  print(i)
+  if (i == 3):
+    break
+  i += 1
+```
+- answer: (A) 1 2 3 
+
+### 22.
+```
+What is the output of this code in Python?
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+ ``` 
+- answer: (C) 1 2 3 4 5 6 
+
+### 23. 
+``` 
+If the function 
+int volume (int x = 1, int y = 1, int z = 1); 
+is called by the expression volume (7,8), how many default arguments are used?
+(A) None  (B) One  (C) Two  (D) Three
+(E) It depends on the runtime environment.
+``` 
+- answer: (C) Two https://www.w3schools.com/python/python_functions.asp
+
+### 24. 
+``` 
+What is the output of this code in python?
+        r = lambda q: q * 2
+        s = lambda q: q * 3
+        x = 2
+        x = r (x)
+        x = s (x)
+        x = r (x)
+        print (x)
+   (A) 2  (B) 4  (C) 6  (D) 12  (E) 24
+``` 
+- answer: (E) 24 
+
+### 25. 
+``` 
+A recursive function is defined as below:
+def tri_recursion(k):
+  if(k > 0):
+    result = k + tri_recursion(k - 1)
+    print(result)
+  else:
+    result = 0
+  return result
+
+What Is The Last Line Of The Output When tri_recursion(6) is executed? 
+   (A) 6  (B) 10  (C) 15  (D) 21  (E) 28
+``` 
+- answer: (D) 21
+
+
+
+
 
 
 
