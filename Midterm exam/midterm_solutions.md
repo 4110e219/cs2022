@@ -46,11 +46,8 @@ What is the output of this code in Python?
 (A) apple  (B) banana (C) cherry  
 (D) ["apple", "banana", "cherry"]
 ```
-- answer: (A) apple 
+- answer: (A) apple https://colab.research.google.com/drive/18usjdXx0ZaRxJkfCNaxot44_jnzkph16#scrollTo=rPmUh4i2Ko5-
 ```
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
-print(x)
 
 
 
