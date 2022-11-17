@@ -227,7 +227,7 @@ Python has a set of built-in methods that you can use on dictionaries. Which sta
 (C) items() will returns a list containing a tuple for each key value pair  
 (D) popitem()	will removes the last inserted key-value pair
 ```
--answer: https://www.w3schools.com/python/python_dictionaries.asp
+- answer: https://www.w3schools.com/python/python_dictionaries.asp
 (C) items() will returns a list containing a tuple for each key value pair  
 
 
