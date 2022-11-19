@@ -110,7 +110,7 @@ print(a[2:5]+ a[3:8])
 (C)  llolo, W
 (D)  llolo,Wor
 ``` 
-- answer: (B)  llolo,Wo 
+- answer: (C)  llolo, W
 
 ### 10. 
 ```
